@@ -1,4 +1,4 @@
-package backend.backendspring.test.model.dto;
+package backend.backendspring.src.test.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

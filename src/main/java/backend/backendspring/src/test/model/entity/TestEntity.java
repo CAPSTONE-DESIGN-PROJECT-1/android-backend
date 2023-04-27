@@ -1,4 +1,4 @@
-package backend.backendspring.test.model.entity;
+package backend.backendspring.src.test.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
